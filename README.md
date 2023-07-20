@@ -3,3 +3,9 @@ This is a basic example that checks for some common security headers and open po
 
 # Note
 Please note that this tool only serves as a starting point and may not cover all possible security vulnerabilities. It's always recommended to use specialized security tools and follow best practices to ensure website security. And please do change the `url` at the bottom of `websectoolv1.py` to scan whichever website you want!
+
+# Installing requirements:
+``pip3 install requests``
+
+# Usage:
+``python3 websectoolv1.py`` and it should run~
